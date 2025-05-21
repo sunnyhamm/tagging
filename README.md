@@ -1,9 +1,9 @@
 build a virtual environment, with packages from requirements.txt
 
 
-steps:
-conda create -n tagging python=3.12
-conda activate tagging
+# steps:
+# conda create -n tagging python=3.12
+#conda activate tagging
 pip install -r requirements.txt
 
 
