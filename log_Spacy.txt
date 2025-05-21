@@ -1,0 +1,7 @@
+(36618, 2)
+
+ running en_core_web_sm ...
+
+results_SpaCy.csv_created
+
+ SpaCy Program finished: 2 min 55.95 sec

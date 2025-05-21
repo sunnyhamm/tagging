@@ -1,0 +1,5 @@
+(36618, 2)
+
+results_NLTK.csv_created
+
+ NLTK Program finished: 127 min 4.01 sec
