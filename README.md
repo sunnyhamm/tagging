@@ -7,4 +7,4 @@
 
 
 ## demo_tagAnnot.py ---> provides the code for running models
-## demo_app.py ---> dashboard by Streamlit, can execute by running this in Anaconda prompt: streamlit run app.py
+## demo_app.py ---> dashboard by Streamlit, can execute by running this in Anaconda prompt: streamlit run demo_app.py
